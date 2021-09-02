@@ -36,3 +36,7 @@ TODO : make a github repository with the inference code and the training databas
 ### Challenge 6: Objects localization in an IoT context
 
 TODO : develop more this technology and write the interface with ROS. 
+
+### Challenge 7: Air quality
+
+...
