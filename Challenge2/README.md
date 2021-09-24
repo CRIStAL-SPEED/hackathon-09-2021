@@ -50,7 +50,7 @@ The online tool makesense.ai is recommended to creat labels of objects. No addit
 Notice: You must create labels corresponding to your dataset (the number of the classes), and export annotations in YOLO format.
 
 ### Organize Directories
-The dataset should follow the stucture below:
+The dataset should follow the structure below:
 
   |----yolov5-master
 
