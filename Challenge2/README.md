@@ -18,7 +18,7 @@ We recommend YOLOv5 as the object detection architecture and you can also select
 
 https://github.com/ultralytics/yolov5
 
-It will be better to create a new Python environment to train the object detection model. Duo to the fact that sometimes the new Python packages will lead to dependency conflicts. The following commands show how to use Python environment:
+It will be better to create a new Python environment to train the object detection model. Duo to the fact that sometimes the new Python packages will lead to dependency conflicts. The following commands show how to use Python environment in Anaconda:
 
  * Create environment
 
