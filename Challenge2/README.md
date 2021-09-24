@@ -52,7 +52,7 @@ Notice: You must create labels corresponding to your dataset (the number of the 
 ### Organize Directories
 The dataset should follow the structure below:
 
-'''
+```
   |----yolov5-master
 
   |----your dataset(Hackathon)
@@ -68,4 +68,4 @@ The dataset should follow the structure below:
            |---images
          
            |---labels
-'''
+```
