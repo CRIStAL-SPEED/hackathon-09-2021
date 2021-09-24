@@ -56,18 +56,11 @@ The dataset should follow the structure below:
 
 ```
   |----yolov5-master
-
   |----your dataset(Hackathon)
-
        |---train
-     
-           |---images
-         
-           |---labels
-         
-       |---val
-     
-           |---images
-         
+           |---images      
+           |---labels        
+       |---val     
+           |---images         
            |---labels
 ```
