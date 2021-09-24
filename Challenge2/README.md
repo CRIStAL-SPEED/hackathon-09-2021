@@ -12,11 +12,7 @@ In this challenge, several danger situation datasets collected in port are provi
  * Operators on Track/Dock: Recognize operators working on track/dock.
  * Train: Recognize train moving, operating and approaching in port.
 
-## Technical description 
-
-We recommend YOLOv5 as the object detection architecture and you can also select the method you want. The following link shows how to build your own object detection model based on YOLOv5.
-
-https://github.com/ultralytics/yolov5
+## Python environment
 
 It will be better to create a new Python environment to train the object detection model. Duo to the fact that sometimes the new Python packages will lead to dependency conflicts. The following commands show how to use Python environment in Anaconda:
 
@@ -39,4 +35,17 @@ conda activate Hackathon
  * Exit environment
 
 conda deactivate
+
+## Technical description 
+
+We recommend YOLOv5 as the object detection architecture and you can also select the method you want. The following link shows how to build your own object detection model based on YOLOv5.
+
+https://github.com/ultralytics/yolov5
+
+The following contents are some suggestions when you follow the YOLOv5 guidence.
+
+### Create Labels
+The online tool makesense.ai is recommended to creat labels of objects. No additional software is required to do the annotation.
+
+### Organize Directories
 
