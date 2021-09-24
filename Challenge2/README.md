@@ -19,12 +19,16 @@ It will be better to create a new Python environment to train the object detecti
 ```
  * Create environment
    conda create -n Hackathon
+   
  * Check the environment
    conda info --env
+   
  * Delete the environment (be careful)
    conda remove -n Hackathon --all
+   
  * Active environment
    conda activate Hackathon
+   
  * Exit environment
    conda deactivate
 ```
