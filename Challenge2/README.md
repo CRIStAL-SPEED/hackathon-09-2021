@@ -2,7 +2,7 @@
 
 ## Objectives
 
-The goal of this challenge is to analyse video streams or images to detect risky situations on the port. 
+The goal of this challenge is to analyze video streams or images to detect risky situations on the port. 
 
 ## Dataset 
 
@@ -42,10 +42,10 @@ We recommend YOLOv5 as the object detection architecture and you can also select
 
 https://github.com/ultralytics/yolov5
 
-The following contents are some suggestions when you follow the YOLOv5 guidence.
+The following contents are some suggestions when you follow the YOLOv5 guidance.
 
 ### Create Labels
-The online tool makesense.ai is recommended to creat labels of objects. No additional software is required to do the annotation.
+The online tool makesense.ai is recommended to create labels of objects. No additional software is required to do the annotation.
 
 Notice: You must create labels corresponding to your dataset (the number of the classes), and export annotations in YOLO format.
 
