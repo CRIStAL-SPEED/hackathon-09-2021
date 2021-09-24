@@ -50,19 +50,19 @@ The online tool makesense.ai is recommended to creat labels of objects. No addit
 ### Organize Directories
 The dataset should follow the stucture below:
 
-|----yolov5-master
+  |----yolov5-master
 
-|----your dataset(Hackathon)
+  |----your dataset(Hackathon)
 
-     |---train
+       |---train
      
-         |---images
+           |---images
          
-         |---labels
+           |---labels
          
-     |---val
+       |---val
      
-         |---images
+           |---images
          
-         |---labels
+           |---labels
 
