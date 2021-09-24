@@ -16,6 +16,7 @@ In this challenge, several danger situation datasets collected in port are provi
 
 It will be better to create a new Python environment to train the object detection model. Duo to the fact that sometimes the new Python packages will lead to dependency conflicts. The following commands show how to use Python environment in Anaconda:
 
+```
  * Create environment
 
 conda create -n Hackathon
@@ -35,6 +36,7 @@ conda activate Hackathon
  * Exit environment
 
 conda deactivate
+```
 
 ## Technical description 
 
