@@ -48,22 +48,3 @@ git clone https://github.com/facebookresearch/detectron2.git
 put *.ipynb in detectron2 root folder
 put *.py files in tools folder
 copy the dataset here in datasets
-
-4. Training with detectron
-
-``` cd detectron2 ``` 
-
-Then
-
-``` python3 tools/train_custom_coco.py ```
-
-Before launching the program make sure you are loading the good dataset and image directory at this line ``` register_coco_instances ```
-
-5. Testing with detectron
-
-``` cd detectron2 ```
-Then
-
-``` python3 tools/test_custom_coco.py ```
-
-You should have a result like this : ![result](https://i.imgur.com/wHownzJ.jpg)

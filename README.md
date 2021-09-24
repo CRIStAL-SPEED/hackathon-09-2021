@@ -13,10 +13,11 @@ TODO
 
 ### Challenge 1: Air quality
 
-...
+[Details for challenge 1](Challenge1.md)
 
 ### Challenge 2: Safety improvement on the port, detection of risky situations
-...
+
+[Details for challenge 2](Challenge2.md)
 
 ### Challenge 3: Deep learning for intruders detection on the port
 
