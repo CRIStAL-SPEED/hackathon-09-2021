@@ -46,7 +46,7 @@ https://github.com/ultralytics/yolov5
 The following contents are some suggestions when you follow the YOLOv5 guidance.
 
 ### Create Labels
-The online tool makesense.ai is recommended to create labels of objects. No additional software is required to do the annotation.
+The online tool https://makesense.ai is recommended to create labels of objects. No additional software is required to do the annotation.
 
 Notice: You must create labels corresponding to your dataset (the number of the classes), and export annotations in YOLO format.
 
