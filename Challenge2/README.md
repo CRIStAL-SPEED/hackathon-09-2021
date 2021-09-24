@@ -9,7 +9,7 @@ The goal of this challenge is to analyse video streams or images to detect risky
 In this challenge, several danger situation datasets collected in port are provided. The Danger Crossing is a mandatory dataset, and you must choose at least one more from the rest datasets. The dataset () contains:
  * Danger Crossing: Detect the vehicle at the crossing to avoid traffic accidents.
  * Operation on Train： Detect the container operation on train.
- * Operators on Track/Dock: Recognize operators working on track/Dock.
+ * Operators on Track/Dock: Recognize operators working on track/dock.
  * Train: Recognize train moving, operating and approaching in port.
 
 ## Technical description 
