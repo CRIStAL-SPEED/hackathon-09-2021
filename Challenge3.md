@@ -12,7 +12,7 @@ This has been processed to a physical twin of a port (a demonstrator @1/87th sca
 ### Database for training
 
 Coco-annotator : 
-TODO : describe the tool or put links to tutorials, manuals
+https://github.com/jsbroks/coco-annotator/wiki/Getting-Started#Prerequisites
 
 Link to database: 
 Structure: 
