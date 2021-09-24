@@ -47,6 +47,8 @@ The following contents are some suggestions when you follow the YOLOv5 guidence.
 ### Create Labels
 The online tool makesense.ai is recommended to creat labels of objects. No additional software is required to do the annotation.
 
+Notice: You must create labels corresponding to your dataset (the number of the classes), and export annotations in YOLO format.
+
 ### Organize Directories
 The dataset should follow the stucture below:
 
