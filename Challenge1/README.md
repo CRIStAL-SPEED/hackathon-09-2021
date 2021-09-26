@@ -43,7 +43,7 @@ Alert thresholds for measurements PM10, NO2 et SO2
     * NO₂ >= 200 μg/mᴲ (on average over 1 hour )
     * SO₂ >= 300 μg/mᴲ (on average over 1 hour )
 
- * Deuxième seuil (seuil d’alerte) :
+ * Second threshold (threshold of alert) :
     * PM 10 and PM 25 >= 80 μg/mᴲ (on the last 24h)
     * NO₂ >= 300 μg/mᴲ (on the last hour)
     * SO₂ >= 500 μg/mᴲ (on the last hour)
