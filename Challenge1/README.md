@@ -28,7 +28,7 @@ Station       Latitude      Longitude        Station name
 
 The following dataset (https://nextcloud.univ-lille.fr/index.php/s/wMrnn2ZcHBtGrAj) contained these fields:
  * Raw data of air quality station: 
- * Données brutes de station qualité de l’air : Fine particle concentration (anonymized data)
+ * Fine particle concentration (anonymized data)
   * Weather data: wind, rain
   * Maritime traffic data of the studied area
   * Coordinate data of the study area
