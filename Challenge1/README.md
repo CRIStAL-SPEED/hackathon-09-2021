@@ -58,9 +58,11 @@ If you are using Linux : `pip3 install Jupyter`
 Then you can create a new virtual environment: (in Windows: launch **Anaconda Prompt**)
 ```
 # Create new virtual environment
-conda create -n Hackathon python=3.6  
+conda create -n Hackathon python=3.6   
+
 # Activate virtual env.
-conda activate Hackathon
+conda activate Hackathon  
+
 # Install required packages
 pip install -r requirements.txt
 ```
