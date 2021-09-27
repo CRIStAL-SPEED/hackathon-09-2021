@@ -48,5 +48,8 @@ Alert thresholds for measurements PM10, NO2 et SO2
     * NO₂ >= 300 μg/mᴲ (on the last hour)
     * SO₂ >= 500 μg/mᴲ (on the last hour)
 
-## Package installation
+## Tools
+### Anaconda
+There is an example of daily average PM10 prediction written with Jupyter Notebook, and it's recommended that you develop your codes with the same tool.
+If you are using Windows : install [Anaconda](https://www.anaconda.com/products/individual).
 `pip install -r requirements.txt`
