@@ -77,12 +77,12 @@ boundaries = osm.get_boundaries()
 or use a custom filter for any [map features](https://wiki.openstreetmap.org/wiki/Map_features):
 ```
 custom_data = osm.get_data_by_custom_criteria(	custom_filter={
-												'key1': ['value1', 'value2'],
-												'key2': ['value3', 'value4', 'value5']}
-												filter_type="keep",
-												keep_nodes=False,
-												keep_ways=True,
-												keep_relations=True)
+						'key1': ['value1', 'value2'],
+						'key2': ['value3', 'value4', 'value5']}
+						filter_type="keep",
+						keep_nodes=False,
+						keep_ways=True,
+						keep_relations=True)
 ```
 You can plot any of these geodataframe with:
 ```
