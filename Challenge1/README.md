@@ -49,7 +49,7 @@ Alert thresholds for measurements PM10, NO2 et SO2
     * SO₂ >= 500 μg/mᴲ (on the last hour)
 
 ## Tools
-### Anaconda
+### Environment
 There is an example of daily average PM10 prediction written with Jupyter Notebook, and it's recommended that you develop your codes with the same tool.  
 
 If you are using Windows : install [Anaconda](https://www.anaconda.com/products/individual).    
@@ -66,6 +66,7 @@ conda activate Hackathon
 # Install required packages
 pip install -r requirements.txt
 ```  
+### Libraries
+The used data processing library is Pandas, you can check its [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) class documentation to explore more methods for time stamped data manipulation. It would be of great help if you have knowledge and experience in using Numpy.  
 
-The used data processing library is Pandas, you can check its [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) class documentation to explore more methods for time stamped data manipulation.  
 The used machine learning library is Scikit-Learn. You can check its [Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html) tutorial to find all linear and non-linear **regression** algorithms provided by Scikit-Learn.
