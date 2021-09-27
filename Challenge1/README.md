@@ -50,7 +50,7 @@ Alert thresholds for measurements PM10, NO2 et SO2
 
 ## Tools
 ### Environment
-There is an example of daily average PM10 prediction written with Jupyter Notebook, and it's recommended that you develop your codes with the same tool.  
+There is an [example](https://github.com/CRIStAL-SPEED/hackathon-09-2021/blob/main/Challenge3.md) of daily average PM10 prediction written with Jupyter Notebook, and it's recommended that you develop your codes with the same tool.  
 
 If you are using Windows : install [Anaconda](https://www.anaconda.com/products/individual).    
 If you are using Linux : `pip3 install Jupyter`  
