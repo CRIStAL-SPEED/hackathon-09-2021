@@ -65,4 +65,7 @@ conda activate Hackathon
 
 # Install required packages
 pip install -r requirements.txt
-```
+```  
+
+The used data processing library is Pandas, you can check its [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) class documentation to explore more methods for data manipulation.  
+The used machine learning library is Scikit-Learn. You can check its [Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html) tutorial to find all linear and non-linear regression algorithms provided by Scikit-Learn.
