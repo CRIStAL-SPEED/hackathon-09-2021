@@ -48,3 +48,5 @@ Alert thresholds for measurements PM10, NO2 et SO2
     * NO₂ >= 300 μg/mᴲ (on the last hour)
     * SO₂ >= 500 μg/mᴲ (on the last hour)
 
+## Package installation
+`pip install -r requirements.txt`
