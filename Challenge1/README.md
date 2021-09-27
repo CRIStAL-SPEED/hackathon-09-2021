@@ -50,11 +50,17 @@ Alert thresholds for measurements PM10, NO2 et SO2
 
 ## Tools
 ### Anaconda
-There is an example of daily average PM10 prediction written with Jupyter Notebook, and it's recommended that you develop your codes with the same tool.
-If you are using Windows : install [Anaconda](https://www.anaconda.com/products/individual).  
-Then you can create a new virtual environment: launch **Anaconda Prompt**, then
+There is an example of daily average PM10 prediction written with Jupyter Notebook, and it's recommended that you develop your codes with the same tool.  
+
+If you are using Windows : install [Anaconda](https://www.anaconda.com/products/individual).    
+If you are using Linux : `pip3 install Jupyter`  
+
+Then you can create a new virtual environment: (in Windows: launch **Anaconda Prompt**)
 ```
+# Create new virtual environment
 conda create -n Hackathon python=3.6  
+# Activate virtual env.
 conda activate Hackathon
+# Install required packages
 pip install -r requirements.txt
 ```
