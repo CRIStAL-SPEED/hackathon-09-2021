@@ -76,3 +76,8 @@ pip install -r requirements.txt
 The used data processing library is Pandas, you can check its [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) class documentation to explore more methods for time stamped data manipulation. It would be of great help if you have knowledge and experience in using Numpy.  
 
 The used machine learning library is Scikit-Learn. You can check its [Supervised Learning](https://scikit-learn.org/stable/supervised_learning.html) tutorial to find all linear and non-linear **regression** algorithms provided by Scikit-Learn.
+
+
+## Geographical representation 
+
+You can consult the [map section](map.md) to get more informations and procedures to display data on geographical maps. You will find also explanations on the way to get data about the map typology (kind of buildings, areas, roads, ...). 
