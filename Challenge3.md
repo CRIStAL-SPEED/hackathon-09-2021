@@ -2,7 +2,7 @@
 
 ## Objectives
 
-TODO : complete
+The objective of this challenge is to detect intruders on the port, it may be animals or humans without safety equipments. 
 
 ## Resources
 
