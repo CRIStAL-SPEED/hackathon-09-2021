@@ -5,10 +5,6 @@
 CRIStAL research center hosts the SPEED project hackathon on September 2021 
 Website of SPEED project: https://www.smartportsecosystem.com/ 
 
-## The organization team 
-
-TODO
-
 ## Proposed challenges
 
 ### Challenge 1: Air quality
