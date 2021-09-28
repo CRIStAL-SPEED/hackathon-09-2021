@@ -63,3 +63,6 @@ The dataset should follow the structure below:
            |---images         
            |---labels
 ```
+### Simple example
+The train.py and coco128.yaml are provided to train the object detection model. You can replace the corresponding documents in Yolov5-Master folder and use the images and labels in val_dataset to train/test the code. Whereafter, we suggest you to select you own topics and finish the corresponding annotation and training.
+
