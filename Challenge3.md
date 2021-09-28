@@ -52,7 +52,7 @@ Get detectron2 from git repository:
 ```
 git clone https://github.com/facebookresearch/detectron2.git
 ```
-From this repository in the folder Challenge3, copy the python and jupyter notebooks in the corresponding paths: 
+From this repository in the folder Challenge3, copy the [python and jupyter notebooks](Challenge3) in the corresponding paths: 
 - put *.ipynb in detectron2 root folder
 - put *.py files in tools folder
 - copy the dataset here in datasets
