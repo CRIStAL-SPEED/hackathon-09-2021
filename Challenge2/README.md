@@ -43,6 +43,8 @@ We recommend YOLOv5 as the object detection architecture and you can also select
 
 https://github.com/ultralytics/yolov5
 
+After downloading the code, you will have a folder named Yolov5/Yolov5-Master.
+
 The following contents are some suggestions when you follow the YOLOv5 guidance.
 
 ### Create Labels
