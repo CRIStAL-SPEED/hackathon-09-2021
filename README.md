@@ -2,7 +2,7 @@
 
 ## Description
 
-CRIStAL research center, University of Lille, hosts the SPEED project hackathon on September 2021 
+CRIStAL research center, University of Lille, hosts the SPEED project hackathon on September 2021 at Polytech Lille school. 
 Website of SPEED project: https://www.smartportsecosystem.com/ 
 
 ## Rules 
