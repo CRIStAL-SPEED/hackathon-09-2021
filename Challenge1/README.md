@@ -81,3 +81,7 @@ The used machine learning library is Scikit-Learn. You can check its [Supervised
 ## Geographical representation 
 
 You can consult the [map section](map.md) to get more informations and procedures to display data on geographical maps. You will find also explanations on the way to get data about the map typology (kind of buildings, areas, roads, ...). 
+
+## Sample codes 
+
+A first version of data analysis with machine learning prediction is available here: [jupyter notebook air quality sample code](SPEED_Hackathon.ipynb) 
