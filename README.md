@@ -18,11 +18,11 @@ The evaluation criteria will be based on the innovative characteristics of the s
 
 ### Challenge 1: Air quality
 
-[Details for challenge 1](Challenge1.md)
+[Details for challenge 1](Challenge1/README.md)
 
 ### Challenge 2: Safety improvement on the port, detection of risky situations
 
-[Details for challenge 2](Challenge2.md)
+[Details for challenge 2](Challenge2/README.md)
 
 ### Challenge 3: Deep learning for intruders detection on the port
 
