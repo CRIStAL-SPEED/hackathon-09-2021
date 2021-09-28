@@ -1,6 +1,10 @@
 # Challenge 1 : Air quality 
 
-## Objectives 
+## Problematic
+
+...
+
+## Objective
 
 The goal of this challenge is to estimate a pollution pike at day 2 and day 3. 
 
