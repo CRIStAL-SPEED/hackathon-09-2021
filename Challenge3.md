@@ -1,12 +1,16 @@
 # Challenge 3 : Intruders detection on the port
 
-## Objectives
+## Problematic
 
-The objective of this challenge is to detect intruders on the port, it may be animals or humans without safety equipments. 
+The production rate on a port is a critical data of the activity and of course, stopping the containers tranfer for any reasons is not acceptable. For this challenge, we focus on the detection of intruders that can interrupt the normal operating tasks. Detecting these intruders as soon as possible could be a key feature for the service in charge of security. We define intruders as objects, animals or people not allowed to enter in the port area. The objects may be vehicles with no authorization for example. People not allowed may be identified easily if they are not equipped with personal protective equipment (helmet, yellow jacket,...)
+
+## Objective
+
+The objective of this challenge is to detect intruders on the port, it may be animals, unauthorized humans or vehicles. 
 
 ## Resources
 
-We will descibe here a first version of algortihm using Detectron2 deep learning framework to detect objects on the port. 
+We will descibe here a first version of an algortihm using Detectron2 deep learning framework to detect objects on the port. 
 This has been processed to a physical twin of a port (a demonstrator @1/87th scale).  
 
 ### Database for training
@@ -14,10 +18,10 @@ This has been processed to a physical twin of a port (a demonstrator @1/87th sca
 Coco-annotator : 
 https://github.com/jsbroks/coco-annotator/wiki/Getting-Started#Prerequisites
 
-Link to database: 
-Structure: 
-  - images
-  - annotations
+Link to database: https://nextcloud.univ-lille.fr/index.php/s/ccMMadg76YpMHXr
+Structure of custom_coco (folder to put in the dataset directory of detectron2) : 
+  - images : contains the photos dataset. Warning, all the images have not been used to train the model, you can have a look in the JSON file to know which images can be used to test the model (choose images not used during the training).
+  - annotations : contain a JSON file used during the training session (see [train_custom_coco.py](Challenge3/train_custom_coco.py)). The JSON file was generated with coco-annotator.
 
 ### Dependencies for detectron2
 
@@ -25,8 +29,11 @@ Before using the example provided after, it is necessary to install the correct 
 
 #### 1. CUDA installation 
 
+As referenced here for Linux Ubuntu 20.04: https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=runfile_local 
+
 ```
-sudo sh cuda_11.1.0_455.23.05_linux.run --toolkit --silent --override
+wget https://developer.download.nvidia.com/compute/cuda/11.4.2/local_installers/cuda_11.4.2_470.57.02_linux.run
+sudo sh cuda_11.4.2_470.57.02_linux.run --toolkit --silent --override
 ```
 
 #### 2. Pytorch installation:
@@ -45,9 +52,10 @@ Get detectron2 from git repository:
 ```
 git clone https://github.com/facebookresearch/detectron2.git
 ```
-put *.ipynb in detectron2 root folder
-put *.py files in tools folder
-copy the dataset here in datasets
+From this repository in the folder Challenge3, copy the python and jupyter notebooks in the corresponding paths: 
+- put *.ipynb in detectron2 root folder
+- put *.py files in tools folder
+- copy the dataset here in datasets
 
 #### 4. Training with detectron
 
