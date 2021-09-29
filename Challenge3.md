@@ -18,7 +18,10 @@ This has been processed to a physical twin of a port (a demonstrator @1/87th sca
 Coco-annotator : 
 https://github.com/jsbroks/coco-annotator/wiki/Getting-Started#Prerequisites
 
-Link to database: https://nextcloud.univ-lille.fr/index.php/s/ccMMadg76YpMHXr
+Link to database used to train the model at samll scale (1/87th): https://nextcloud.univ-lille.fr/index.php/s/ccMMadg76YpMHXr
+This database is provided only for tests. 
+For the challenge, we want to detect objects on a real environment so you can use the database of challenge 2. See the link [here, section dataset](Challenge2)
+
 Structure of custom_coco (folder to put in the dataset directory of detectron2) : 
   - images : contains the photos dataset. Warning, all the images have not been used to train the model, you can have a look in the JSON file to know which images can be used to test the model (choose images not used during the training).
   - annotations : contain a JSON file used during the training session (see [train_custom_coco.py](Challenge3/train_custom_coco.py)). The JSON file was generated with coco-annotator.
