@@ -14,6 +14,8 @@ Each team must:
 
 The evaluation criteria will be based on the innovative characteristics of the solution, the relevance of the technology regarding the ease of industrialization and the performance of the algorithms. Finally, the disruptive part (database enrichment, new AI frameworks, extension of source codes given as example,...) of the technology and of the pitch will be evaluated too. 
 
+**To help you, we provide a [guideline]() to write your pitch.**
+
 ## Proposed challenges
 
 ### Challenge 1: Air quality
