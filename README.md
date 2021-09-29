@@ -28,3 +28,10 @@ The evaluation criteria will be based on the innovative characteristics of the s
 
 [Details for challenge 3](Challenge3.md)
 
+
+## Online resources 
+
+AI, Machine learning and deep learning are trendy technologies and you can find a lot of resources online ! Of course frameworks documentation are good references and here is a very lecture from the French academic community available freely on youtube: 
+https://www.youtube.com/channel/UC4Sukzudhbwr6fs10cXrJsQ
+
+And a lot of book and tutorials to improve your skills in AI: https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle/-/wikis/resources-links !
