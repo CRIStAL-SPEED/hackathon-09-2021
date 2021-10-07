@@ -30,6 +30,30 @@ The evaluation criteria will be based on the innovative characteristics of the s
 
 [Details for challenge 3](Challenge3.md)
 
+## Teams and results 
+
+Les Fûmax 
+Maxime Naillon
+Thomas Welgosik
+Jean Christophe Sacco
+
+Les Fûmax2 
+Sebastien Lyscar
+Loris Vaccaro
+Alexandre Elie
+
+Precision 
+Timothée Caussin
+Guangjie Li
+Jun Jiang
+Saeed Anwari
+
+Untitled3
+Antoine Sakr
+William Wilmot
+Gilles Bang
+Ngmepiepaye Roosevelt 
+
 
 ## Online resources 
 
