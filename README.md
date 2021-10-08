@@ -32,27 +32,10 @@ The evaluation criteria will be based on the innovative characteristics of the s
 
 ## Teams and results 
 
-Les Fûmax 
-Maxime Naillon
-Thomas Welgosik
-Jean Christophe Sacco
-
-Les Fûmax2 
-Sebastien Lyscar
-Loris Vaccaro
-Alexandre Elie
-
-Precision 
-Timothée Caussin
-Guangjie Li
-Jun Jiang
-Saeed Anwari
-
-Untitled3
-Antoine Sakr
-William Wilmot
-Gilles Bang
-Ngmepiepaye Roosevelt 
+1. Les Fûmax (Maxime Naillon, Thomas Welgosik, Jean Christophe Sacco)
+2. Les Fûmax2 (Sebastien Lyscar, Loris Vaccaro, Alexandre Elie)
+3. Precision (Timothée Caussin, Guangjie Li, Jun Jiang, Saeed Anwari)
+4. Untitled3 (Antoine Sakr, William Wilmot, Gilles Bang, Ngmepiepaye Roosevelt)
 
 
 ## Online resources 
